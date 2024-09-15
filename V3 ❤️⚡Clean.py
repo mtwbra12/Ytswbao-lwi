@@ -15,7 +15,7 @@ import requests
 attack_running = False
 user_attack_counts = {}
 
-ADMIN_USER = "alongbarbasumatary"
+ADMIN_USER = "AKBAR69102"
 DEFAULT_PROCESSES = 50
 MAX_DURATION = 400
 
